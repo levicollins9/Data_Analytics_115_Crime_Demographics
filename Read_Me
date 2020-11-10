@@ -1,8 +1,0 @@
-echo "# Data_Analytics_115_Crime_Demographics" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/levicollins9/Data_Analytics_115_Crime_Demographics.git
-git push -u origin master
-                
