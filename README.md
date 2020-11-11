@@ -27,5 +27,5 @@ This graph shows that most of the crime is committed by the White category in Ra
 
 ![WA Crime by Population (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/WA%20Crime%20by%20Population%20(Race)%202019.png)
 
-This graph demonstrates distribution of crime adjusted for population.
+This graph demonstrates distribution of crime adjusted for population. The Y axis is the percent of people who commit violent crimes in WA in each Race category. I took the number of crimes committed by each Race in WA in 2019 and divided it by the number of people in each Race in WA in 2019.
 * Note: "Other" category is mainly Hispanics or non-citizens.
