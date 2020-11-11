@@ -19,7 +19,7 @@ I made an initial graph and realized that I needed to account for the difference
 Reference: https://www.census.gov/quickfacts/WA
 
 
-![WA % of Crime (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/WA%20%25%20of%20Crime%20(Race)%202019.png)
+![WA % of Crime (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/WA%20Percent%20of%20Crime%20(Race)%202019.png)
 
 This graph shows that most of the crime is committed by the White category in Race. However, this is not true when compared to population percentage. 
 *Note: Notice, the swing between the percent of population and percent of crime categories.
