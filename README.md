@@ -7,7 +7,7 @@ The two images of the United States show the shooting rate split between black a
 *Reference: https://fatalencounters.org/view/person-csv/
 
 I cut out one death in Alaska and one death in Hawaii to condense the size of the charts and sorted out all races except white and black. 
-*Note: There are a large number of unidentified shootings that may skew actual results.
+* Note: There are a large number of unidentified shootings that may skew actual results.
 
 
 To dig deeper into the topic, I decided to explore crime rates between racial categories. I looked up data from the FBI about crime data by race at the following source.             
@@ -23,7 +23,7 @@ I made an initial graph and realized that I needed to account for the difference
 ![WA % of Crime (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/WA%20Percent%20of%20Crime%20(Race)%202019.png)
 
 This graph shows that most of the crime is committed by the white category in race. However, this is not true when compared to the population percentage of each category. 
-*Note: Notice, the swing between the percent of population and percent of crime categories.
+* Note: Notice, the swing between the percent of population and percent of crime categories.
 
 
 ![WA Crime by Population (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/WA%20Crime%20by%20Population%20(Race)%202019.png)
