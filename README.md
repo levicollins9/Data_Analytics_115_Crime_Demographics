@@ -5,7 +5,7 @@
 ![Shooting Map of America (Race) 2019](https://raw.githubusercontent.com/levicollins9/Data_Analytics_115_Crime_Demographics/master/Shooting%20Map%20of%20America%20(Race)%202019.png)
 The two images of the United States show the shooting rate split between black and white classes of the race category in the United States.
 Reference: https://fatalencounters.org/view/person-csv/
-https://fatalencounters.org/view/person-csv/csv/?
+
 I cut out one death in Alaska and one death in Hawaii to condense the size of the charts and sorted out all races except White and Black. 
 * Note: There are a large number of unidentified shootings that may skew actual results.
 
